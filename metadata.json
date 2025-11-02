@@ -1,0 +1,5 @@
+{
+  "name": "Off-site Training Task Checklist",
+  "description": "An accessible checklist application for off-site training tasks, providing audio feedback to guide users through their work.",
+  "requestFramePermissions": []
+}
